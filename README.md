@@ -2,9 +2,6 @@
 
 A simple front-end clone of the Amazon homepage built using HTML and CSS.
 
-## Demo
-https://your-richa948.github.io/amazon-clone/
-
 ## Features
 - Responsive header and navigation
 - Product cards layout
